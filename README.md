@@ -16,7 +16,7 @@ cd Ko
 
 unzip EH.zip
 
-cd EH
+cd EH/
 
 bash FREE.sh
 
