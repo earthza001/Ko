@@ -16,6 +16,8 @@ cd Ko
 
 unzip EH.zip
 
+cd EH
+
 bash FREE.sh
 
 [เรียบร้อย จบ!!]
